@@ -12,12 +12,27 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-</items>
-<channel>
 
-</channels>
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **02**</title>
+<urlsolve>http://streamin.to/t71bp4jcf6gc</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **03**</title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **04**</title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **05**</title>
@@ -26,20 +41,20 @@
 <fanart></fanart>
 </item>
 
+
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **06**</title>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **0**</title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **07**</title>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **0**</title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 </items>
 <channel>
-
-</channels>			
+</channels>
