@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
            
 
-			
+
+<channels>			
 <channel>
-<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** Temporada 1 **</name>
+<name>[COLOR yellow]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** Temporada 1 **</name>
 <thumbnail></thumbnail>
 <fanart>https://az616578.vo.msecnd.net/files/responsive/cover/main/desktop/2016/02/04/635902125679670664-1579496363_scandal2.png</fanart>
 <items>
@@ -51,7 +52,7 @@
 <fanart></fanart>
 </item>
 </items>
-
+</channel>
 
 <channel>
 <name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** Temporada 2 **</name>
@@ -69,7 +70,7 @@
 
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **2x02**</title>
-<urlsolve></urlsolve>
+<urlsolve>http://www.nowvideo.sx/video/a0d075c7740c0</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -77,7 +78,7 @@
 
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **2x03**</title>
-<urlsolve></urlsolve>
+<urlsolve>http://streamin.to/mnaha6ii8yay</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -85,7 +86,7 @@
 
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **2x04**</title>
-<urlsolve></urlsolve>
+<urlsolve>http://streamcloud.eu/fitexdju5i93/Walkad.Castellano.m720.204.mkv.html</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -93,21 +94,7 @@
 
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **2x05**</title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **2x06**</title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **2x07**</title>
-<urlsolve></urlsolve>
+<urlsolve>http://streamcloud.eu/nutdl5ui7uje/Walkad.Castellano.m720.205.mkv.html</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
