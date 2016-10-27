@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
            
 
-
-<channels>			
+			
 <channel>
 <name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** Temporada 1 **</name>
 <thumbnail></thumbnail>
@@ -69,7 +68,7 @@
 </item>
 
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] **02**</title>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] **2x02**</title>
 <urlsolve>http://streamplay.to/mf1pk60vmd5t</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -77,14 +76,14 @@
 
 
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] **03**</title>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] **2x03**</title>
 <urlsolve>http://streamplay.to/s1fxc1m0vrqq</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] **04**</title>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] **2x04**</title>
 <urlsolve>http://streamplay.to/bbm9i8axv0pj</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -92,5 +91,3 @@
 </items>
 </channel>
 </channels>
-
-
