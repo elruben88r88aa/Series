@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
            
 
-			
+
+<channels>			
 <channel>
 <name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** Temporada 1 **</name>
 <thumbnail></thumbnail>
@@ -9,35 +10,35 @@
 <items>
 
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **01**</title>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 1x01**</title>
 <urlsolve>http://www.nowvideo.sx/video/2748f4f07edc9</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **02**</title>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 1x02**</title>
 <urlsolve>http://streamin.to/t71bp4jcf6gc</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **03**</title>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 1x03**</title>
 <urlsolve>http://streamcloud.eu/zawife89ar17/VivosMuertos.1x03.avi.html</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **04**</title>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 1x04**</title>
 <urlsolve>https://openload.co/f/RK7cW_TMEks/Walkad.Castellano.m720.104.mkv</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **05**</title>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 1x05**</title>
 <urlsolve>http://streamplay.to/2rx7r7fjn379</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -45,13 +46,14 @@
 
 
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **06**</title>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 1x06**</title>
 <urlsolve>http://streamplay.to/i7h1i841n445</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 </items>
 <channel>
+
 
 <channel>
 <name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** Temporada 2 **</name>
@@ -60,7 +62,7 @@
 <items>
 
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] **01**</title>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] **2x01**</title>
 <urlsolve>http://streamin.to/x9m8d5etknme</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -128,3 +130,4 @@
 </items>
 </channel>
 </channels>
+
