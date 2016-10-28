@@ -1,105 +1,159 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-           
 
-
-<channels>			
+<channels>
 <channel>
-<name>[COLOR yellow]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** Temporada 1 **</name>
-<thumbnail></thumbnail>
-<fanart>https://az616578.vo.msecnd.net/files/responsive/cover/main/desktop/2016/02/04/635902125679670664-1579496363_scandal2.png</fanart>
-<items>
-
-<item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 1x01**</title>
-<urlsolve>http://www.nowvideo.sx/video/2748f4f07edc9</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 1x02**</title>
-<urlsolve>http://streamin.to/t71bp4jcf6gc</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 1x03**</title>
-<urlsolve>http://streamcloud.eu/zawife89ar17/VivosMuertos.1x03.avi.html</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 1x04**</title>
-<urlsolve>http://streamcloud.eu/0po790r4czr1/Walkad.Castellano.m720.104.mkv.html</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 1x05**</title>
-<urlsolve>http://www.flashx.tv/ne2f00gjbidq.html</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 1x06**</title>
-<urlsolve>http://streamplay.to/i7h1i841n445</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-</items>
-</channel>
-
-<channel>
-<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** Temporada 2 **</name>
+<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** Temporada 1 **</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
 
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **2x01**</title>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 01 **</title>
+<urlsolve>http://gamovideo.com/w0xo5pets44x</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 02 **</title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
-
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **2x02**</title>
-<urlsolve>http://www.nowvideo.sx/video/a0d075c7740c0</urlsolve>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 03 **</title>
+<urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
-
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **2x03**</title>
-<urlsolve>http://streamin.to/mnaha6ii8yay</urlsolve>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 04 **</title>
+<urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
-
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **2x04**</title>
-<urlsolve>http://streamcloud.eu/fitexdju5i93/Walkad.Castellano.m720.204.mkv.html</urlsolve>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 05 **</title>
+<urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
-
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **2x05**</title>
-<urlsolve>http://streamcloud.eu/nutdl5ui7uje/Walkad.Castellano.m720.205.mkv.html</urlsolve>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 06 **</title>
+<urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 07 **</title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 08 **</title>
+<urlsolve></urlsolve>
+<thumbnail>http://ayayay.tv/wp-content/uploads/2015/10/narcos.jpg</thumbnail>
+<fanart>http://www.queveoennetflix.com/wp-content/uploads/2015/10/narcos-larga.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 09 **</title>
+<urlsolve>http://streamin.to/udhf5h83tljo</urlsolve>
+<thumbnail>http://ayayay.tv/wp-content/uploads/2015/10/narcos.jpg</thumbnail>
+<fanart>http://www.queveoennetflix.com/wp-content/uploads/2015/10/narcos-larga.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 10 **</title>
+<urlsolve>http://streamin.to/kp75u7hwhk78</urlsolve>
+<thumbnail>http://ayayay.tv/wp-content/uploads/2015/10/narcos.jpg</thumbnail>
+<fanart>http://www.queveoennetflix.com/wp-content/uploads/2015/10/narcos-larga.png</fanart>
 </item>
 </items>
+</channel>
+
 <channel>
+<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** Temporada 2 **</name>
+<thumbnail>http://ayayay.tv/wp-content/uploads/2015/10/narcos.jpg</thumbnail>
+<fanart>http://www.queveoennetflix.com/wp-content/uploads/2015/10/narcos-larga.png</fanart>
+<items>
 
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 01 **</title>
+<urlsolve>http://streamin.to/ow9785vhb2sg</urlsolve>
+<thumbnail>http://ayayay.tv/wp-content/uploads/2015/10/narcos.jpg</thumbnail>
+<fanart>http://www.queveoennetflix.com/wp-content/uploads/2015/10/narcos-larga.png</fanart>
+</item>
 
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 02 **</title>
+<urlsolve>http://streamin.to/6yll9pv9dvlq</urlsolve>
+<thumbnail>http://ayayay.tv/wp-content/uploads/2015/10/narcos.jpg</thumbnail>
+<fanart>http://www.queveoennetflix.com/wp-content/uploads/2015/10/narcos-larga.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 03 **</title>
+<urlsolve>http://streamin.to/hy8em69zrh7g</urlsolve>
+<thumbnail>http://ayayay.tv/wp-content/uploads/2015/10/narcos.jpg</thumbnail>
+<fanart>http://www.queveoennetflix.com/wp-content/uploads/2015/10/narcos-larga.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 04 **</title>
+<urlsolve>http://streamin.to/vxoka7rfelva</urlsolve>
+<thumbnail>http://ayayay.tv/wp-content/uploads/2015/10/narcos.jpg</thumbnail>
+<fanart>http://www.queveoennetflix.com/wp-content/uploads/2015/10/narcos-larga.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 05 **</title>
+<urlsolve>http://streamin.to/x0918gp4p7z2</urlsolve>
+<thumbnail>http://ayayay.tv/wp-content/uploads/2015/10/narcos.jpg</thumbnail>
+<fanart>http://www.queveoennetflix.com/wp-content/uploads/2015/10/narcos-larga.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 06 **</title>
+<urlsolve>http://streamin.to/ffzd1wcjwqa1</urlsolve>
+<thumbnail>http://ayayay.tv/wp-content/uploads/2015/10/narcos.jpg</thumbnail>
+<fanart>http://www.queveoennetflix.com/wp-content/uploads/2015/10/narcos-larga.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 07 **</title>
+<urlsolve>http://streamin.to/g60y5wqepo7z</urlsolve>
+<thumbnail>http://ayayay.tv/wp-content/uploads/2015/10/narcos.jpg</thumbnail>
+<fanart>http://www.queveoennetflix.com/wp-content/uploads/2015/10/narcos-larga.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 08 **</title>
+<urlsolve>http://streamin.to/np5kot3qj2zq</urlsolve>
+<thumbnail>http://ayayay.tv/wp-content/uploads/2015/10/narcos.jpg</thumbnail>
+<fanart>http://www.queveoennetflix.com/wp-content/uploads/2015/10/narcos-larga.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 09 **</title>
+<urlsolve>http://streamin.to/134p0onkznps</urlsolve>
+<thumbnail>http://ayayay.tv/wp-content/uploads/2015/10/narcos.jpg</thumbnail>
+<fanart>http://www.queveoennetflix.com/wp-content/uploads/2015/10/narcos-larga.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** 10 **</title>
+<urlsolve>http://streamin.to/1ikr3ely5rek</urlsolve>
+<thumbnail>http://ayayay.tv/wp-content/uploads/2015/10/narcos.jpg</thumbnail>
+<fanart>http://www.queveoennetflix.com/wp-content/uploads/2015/10/narcos-larga.png</fanart>
+</item>
+</items>
+</channel>
 </channels>
