@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
 <channel>
 <name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** Temporada 1 **</name>
 <thumbnail></thumbnail>
@@ -61,4 +63,64 @@
 </items>
 <channel>
 
+<channel>
+<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** Temporada 2 **</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **01**</title>
+<urlsolve>http://www.nowvideo.sx/video/5e83768eaa26b</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **02**</title>
+<urlsolve>http://www.nowvideo.sx/video/dcbaa2f482330</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **03**</title>
+<urlsolve>http://www.nowvideo.sx/video/8383fb50492ac</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **04**</title>
+<urlsolve>http://www.nowvideo.sx/video/f9ca7cb2004e6</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **05**</title>
+<urlsolve>http://www.nowvideo.sx/video/4cf7447d39517</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **06**</title>
+<urlsolve>http://www.nowvideo.sx/video/3fa80b1e71a50</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **07**</title>
+<urlsolve>http://www.nowvideo.sx/video/e83f5fe614c50</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+</items>
+<channel>
 </channels>
