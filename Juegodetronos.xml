@@ -170,7 +170,7 @@
 </channel>
 
 <channel>
-<name>[COLOR red]J[/COLOR][COLOR blue]H/COLOR][COLOR yellow]G[/COLOR] ** Temporada 3 **</name>
+<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] [COLOR yellow]Temporada 3[/COLOR] </name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
@@ -424,5 +424,83 @@
 </items>
 </channel>
 
+
+<channel>
+<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]H[/COLOR] ** Temporada 6 **</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** 01 **</title>
+<urlsolve>http://watchvideo.us/n5i7juzqkgvn.html</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** 02 **</title>
+<urlsolve>http://watchvideo.us/rf75sq05lc11.html</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** 03 **</title>
+<urlsolve>http://watchvideo.us/0e6t9wcevtle.html</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** 04 **</title>
+<urlsolve>http://www.nowvideo.sx/video/e7636eba8e6c6</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** 05 **</title>
+<urlsolve>http://watchvideo.us/h8o9xaf92us6.html</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** 06 **</title>
+<urlsolve>http://watchvideo.us/nmact3fm6lb4.html</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** 07 **</title>
+<urlsolve>http://watchvideo.us/11auz117zzmq.html</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** 08 **</title>
+<urlsolve>http://watchvideo.us/73xhdu7rb9v2.html</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** 09 **</title>
+<urlsolve>http://watchvideo.us/x5poxfhs3s6c.html</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** 10 **</title>
+<urlsolve>http://www.nowvideo.sx/video/055c34b289a58</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+</items>
+</channel>
 
 </channels>
