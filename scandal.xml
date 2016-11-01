@@ -2,10 +2,11 @@
 
 
 
+<channels>
 <channel>
-<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** Temporada 1 **</name>
+<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] [COLOR yellow] Temporada 1[/COLOR] </name>
 <thumbnail></thumbnail>
-<fanart>https://az616578.vo.msecnd.net/files/responsive/cover/main/desktop/2016/02/04/635902125679670664-1579496363_scandal2.png</fanart>
+<fanart></fanart>
 <items>
 
 <item>
@@ -63,8 +64,10 @@
 </items>
 </channel>
 
+
+<channels>
 <channel>
-<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** Temporada 2 **</name>
+<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] [COLOR yellow] Temporada 2[/COLOR] </name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
