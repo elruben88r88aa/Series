@@ -2,21 +2,21 @@
 
 <channels>
 <channel>
-<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] [COLOR yellow] Temporada 1[/COLOR] </name>
+<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] [COLOR blue] Temporada 1[/COLOR] </name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
 
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** 01 **</title>
-<urlsolve>http://www.nowvideo.sx/video/39ca210b90e95</urlsolve>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 1x01 Temporada 1 Capitulo 1</title>
+<urlsolve>http://www.nowvideo.sx/video/715d02009db04</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** 02 **</title>
-<urlsolve>http://www.nowvideo.sx/video/ac46f410e8e4b</urlsolve>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 1x02 Lo que escondían sus ojos</title>
+<urlsolve>http://www.nowvideo.sx/video/8ecc69b9b96f6</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -97,6 +97,41 @@
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] ** 13 **</title>
 <urlsolve>http://www.nowvideo.sx/video/36bbaf22d713d</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<channel>
+<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] [COLOR yellow] Temporada 2 [/COLOR] </name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 2x1 - Deshacer lo andado</title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 2x2 - Paraíso terrenal</title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] </title>
+<urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
