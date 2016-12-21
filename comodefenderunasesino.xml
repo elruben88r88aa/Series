@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] [COLOR yellow] Temporada 1[/COLOR] </name>
+<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] [COLOR orange] Temporada 1[/COLOR] </name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
@@ -138,7 +138,7 @@
 
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 2x02 She's Dying</title>
-<urlsolve>http://streamcloud.eu/e610cay16c11</urlsolve>
+<urlsolve>http://streamcloud.eu/edi6ny4t539q/0974_C0m0.D3f3nd3r.A.Un.As3sin0-m720p_2x02_LiNkMaN.mkv.html</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -212,6 +212,56 @@
 </item>
 
 <item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 2x12 It's a Trap</title>
+<urlsolve>http://streamcloud.eu/04zxvmxuex3g</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 2x13 Something Bad Happened </title>
+<urlsolve>http://streamcloud.eu/p8abrvusjwu3/0974_C0m0.D3f3nd3r.A.Un.As3sin0-m720p_2x13_LiNkMaN.mkv.html</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 2x14 There’s My Baby</title>
+<urlsolve>http://streamcloud.eu/x647b7c729g7</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 2x15 Anna Mae</title>
+<urlsolve>http://streamcloud.eu/v4tutfwdyu8d</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+</items>
+</channel>
+
+
+
+<channel>
+<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] [COLOR orange] Temporada 3  OFF[/COLOR] </name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] 3x01 We're Good People Now</title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] </title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
@@ -226,7 +276,6 @@
 </item>
 
 
-
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] </title>
 <urlsolve></urlsolve>
@@ -234,19 +283,14 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] </title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
-<item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] </title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+
+
+
+
+
+
+
 
 
 
