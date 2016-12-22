@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+<channels>
+<channel>
+<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] [COLOR yellow] Temporada 1[/COLOR] </name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR]  </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+</items>
+</channel>
+
+
+
+<channel>
+<name>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G [/COLOR] [COLOR yellow] Temporada 2[/COLOR] </name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+</items>
+</channel>
+</channels>
