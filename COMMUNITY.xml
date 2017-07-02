@@ -89,7 +89,7 @@
 
 
 <item>
-<title>[COLOR red]*[/COLOR]</title>
+<title>[COLOR red]*TEMPORADA 3[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -100,7 +100,7 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51KhWr7EFsL.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>----------------</page>
+<page>http://diskokosmiko.mx/SeriesHD/community-t3-52207</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -117,7 +117,7 @@
 <regex>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>----------------------------</page>
+<page>http://diskokosmiko.mx/SeriesHD/community-t3-52207</page>
 <referer></referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
@@ -131,18 +131,18 @@
 
 
 <item>
-<title>[COLOR red]*[/COLOR]</title>
+<title>[COLOR red]*TEMPORADA 4[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/51KhWr7EFsL.jpg</fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51KhWr7EFsL.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>----------------</page>
+<page>http://diskokosmiko.mx/SeriesHD/community-t4-52208</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -159,31 +159,31 @@
 <regex>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>----------------------------</page>
+<page>http://diskokosmiko.mx/SeriesHD/community-t4-52208</page>
 <referer></referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/51KhWr7EFsL.jpg</fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51KhWr7EFsL.jpg</thumbnail>
 </item>
 
 
 
 
 <item>
-<title>[COLOR red]*[/COLOR]</title>
+<title>[COLOR red]*TEMPORADA 5[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/51KhWr7EFsL.jpg</fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51KhWr7EFsL.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>----------------</page>
+<page>http://diskokosmiko.mx/SeriesHD/community-t5-52209</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -200,30 +200,30 @@
 <regex>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>----------------------------</page>
+<page>http://diskokosmiko.mx/SeriesHD/community-t5-52209</page>
 <referer></referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/51KhWr7EFsL.jpg</fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51KhWr7EFsL.jpg</thumbnail>
 </item>
 
 
 
 <item>
-<title>[COLOR red]*[/COLOR]</title>
+<title>[COLOR red]*TEMPORADA 6[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/51KhWr7EFsL.jpg</fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51KhWr7EFsL.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>----------------</page>
+<page>http://diskokosmiko.mx/SeriesHD/community-dual-t6-52355</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -240,13 +240,13 @@
 <regex>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>----------------------------</page>
+<page>http://diskokosmiko.mx/SeriesHD/community-dual-t6-52355</page>
 <referer></referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/51KhWr7EFsL.jpg</fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51KhWr7EFsL.jpg</thumbnail>
 </item>
 
 
