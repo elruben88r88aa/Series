@@ -8,7 +8,7 @@
 
 
 <item>
-<title>-[COLOR  yellow] 7 vidas [/COLOR]</title>
+<title>[COLOR  lime] 7 vidas [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.elnortedecastilla.es/multimedia/201501/29/media/010-gal-amparo-baro.jpg</thumbnail>
 <fanart>http://www.elnortedecastilla.es/multimedia/201501/29/media/010-gal-amparo-baro.jpg</fanart>
@@ -20,7 +20,24 @@
 
 
 <item>
-<title>-[COLOR  yellow] AIDA [/COLOR]</title>
+<title>[COLOR  lime]* [/COLOR][COLOR  lime] UN PASO ADELANTE[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://static.robadadonne.it.s3.amazonaws.com/wp-content/uploads/2014/06/paso-adelante-640x320.jpg</thumbnail>
+<fanart>http://static.robadadonne.it.s3.amazonaws.com/wp-content/uploads/2014/06/paso-adelante-640x320.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/UN%20PASO%20ADELANTE.xml</externallink>	
+</item>
+
+<item>
+<title>[COLOR  lime]* [/COLOR][COLOR  lime] LOS HOMBRES DE PACO [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://ahorraenchollos.com/wp-content/uploads/2016/03/Los-hombres-de-Paco-portada.jpg</thumbnail>
+<fanart>http://ahorraenchollos.com/wp-content/uploads/2016/03/Los-hombres-de-Paco-portada.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/LOSHOMBRESDEPACO2.xml</externallink>	
+</item>
+
+
+<item>
+<title>[COLOR  lime] AIDA [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -30,7 +47,7 @@
 
 
 <item>
-<title>-[COLOR  red] AQUI NO HAY QUIEN VIVA [/COLOR]</title>
+<title>[COLOR  lime] AQUI NO HAY QUIEN VIVA [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -39,7 +56,7 @@
 
 
 <item>
-<title>-[COLOR  red] COMPAÑEROS [/COLOR]</title>
+<title>-[COLOR lime] COMPAÑEROS [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -48,7 +65,7 @@
 
 
 <item>
-<title>-[COLOR  red] EL EQUIPO A [/COLOR]</title>
+<title>-[COLOR  lime] EL EQUIPO A [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -59,7 +76,7 @@
 
 
 <item>
-      <title>[COLOR red][COLOR  red]*  [/COLOR][/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime]POLICIAS EN EL CORAZON DE LA CALLE[/COLOR]</title>
+      <title>[COLOR  lime]POLICIAS EN EL CORAZON DE LA CALLE[/COLOR]</title>
   <thumbnail>http://pics.filmaffinity.com/policias_en_el_corazon_de_la_calle_tv_series-893231676-large.jpg</thumbnail>
 <fanart>http://www.atresplayer.com/clipping/2013/06/19/00642/705.jpg</fanart>
 <link>http://ignoreme</link>
@@ -69,7 +86,7 @@
 
 
 <item>
-      <title>[COLOR red][COLOR  red]*  [/COLOR][/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime]REFUGIADOS[/COLOR]</title>
+      <title>[COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime]REFUGIADOS[/COLOR]</title>
   <thumbnail>http://pics.filmaffinity.com/the_refugees_refugiados_tv_series-950888512-large.jpg</thumbnail>
 <fanart>http://www.seriesadictos.es/wp-content/uploads/2015/06/refugiados3.jpg.png.jpg</fanart>
 <link>http://ignoreme</link>
